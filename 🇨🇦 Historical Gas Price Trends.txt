@@ -9,15 +9,14 @@ Power BI | Power Query | DAX | Excel
 Key Findings
 
 Identified price variance of up to 18% across Canadian provinces
-Built 6 KPI dashboards to compare regional volatility and long-term inflation trends
+Built 4 KPI dashboards to compare regional volatility and long-term inflation trends
 Cleaned and transformed 10+ years of raw public fuel data using Power Query
 
 Features
 
 Regional price comparison across all 12 provinces
 Year-over-year inflation trend analysis
-Volatility scoring using custom DAX measures
-Interactive slicers by province, year, and fuel type
+Interactive slicers by province, and year
 
 How to Open
 Download the .pbix file from this repository
